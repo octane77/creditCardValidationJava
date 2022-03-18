@@ -1,4 +1,4 @@
-# creditCardValidation
+# creditCardValidationJava
 My implementation of a Credit Card Validator in Java.
 This application is able to detect & validate credit card numbers
 
